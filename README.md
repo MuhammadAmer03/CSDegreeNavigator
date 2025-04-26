@@ -44,10 +44,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
     NEXTAUTH_SECRET=asdsadasdasdsadsadsadsadsadsadsads
     NEXTAUTH_URL=http://localhost:3000/
     ```
+
+    <img src="./_resources/2.png" alt="Screenshot 2025-04-26 at 3.23.47 PM.png" width="400" height="600" class="jop-noMdConv">
     
-    <img src="../_resources/Screenshot%202025-04-26%20at%203.23.47 PM.png" alt="Screenshot 2025-04-26 at 3.23.47 PM.png" width="262" height="317" class="jop-noMdConv">
 3.  **Make sure you have database setup like this**  
-    **<img src="../_resources/Screenshot%202025-04-26%20at%203.22.09 PM.png" alt="Screenshot 2025-04-26 at 3.22.09 PM.png" width="424" height="169" class="jop-noMdConv">**
+    **<img src="./_resources/1.png" width="600" height="300" class="jop-noMdConv">**
     
 4.  **Install Dependencies:**  
     Navigate into the project directory and install the required packages:
